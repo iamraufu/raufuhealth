@@ -1,0 +1,18 @@
+.header-container {
+    height: 800px;
+    position: relative;
+    background-image: url('../../../images/girlBg.png');
+    background-size: cover;
+    overflow: hidden;
+}
+
+.header-container::after {
+    height: 700px;
+    content: ' ';
+    position: absolute;
+    top: 0;
+    width: 30%;
+    right: 0;
+    background-color: #574b90;
+    z-index: -50;
+}
