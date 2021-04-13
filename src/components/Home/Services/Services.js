@@ -9,14 +9,17 @@ const Services = () => {
       const serviceData = [
             {
                   name: 'Root Canal Treatment',
+                  description:'Root canal treatment (endodontics) is a dental procedure used to treat infection at the centre of a tooth. Root canal treatment is not painful and can save a tooth that might otherwise have to be removed completely.',
                   image: root
             },
             {
                   name: 'Teeth Whitening',
+                  description:'Tooth whitening or tooth bleaching is the process of lightening the color of human teeth. Whitening is often desirable when teeth become yellowed over time for a number of reasons, and can be achieved by changing the intrinsic or extrinsic color of the tooth enamel.',
                   image: whitening
             },
             {
                   name: 'Scale and Polish',
+                  description:'A scale and polish is a quick cleaning of the teeth carried out by a dentist. Usually using something called an Ultrasonic, the dentist will clean around the gum line on the back and front of teeth to remove any plaque and tartar.',
                   image: scale
             }
       ]
