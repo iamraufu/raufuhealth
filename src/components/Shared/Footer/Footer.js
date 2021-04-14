@@ -50,7 +50,7 @@ const Footer = () => {
                         <div className="mt-5">
                             <h6>Call Us</h6>
                             <a href="tel:+8801611404405">
-                            <button className="btn btn-info">+8801611404405</button>
+                            <button className="btn btn-info btn-brand text-white">+8801611404405</button>
                             </a>
                         </div>
                     </FooterCol>

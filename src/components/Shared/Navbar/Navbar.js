@@ -14,22 +14,22 @@ const Navbar = () => {
         <div  class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link color ms-5" aria-current="page" href="1">Home</a>
+              <a class="nav-link color ms-5" aria-current="page" href="/home">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link color ms-5" href="1">About</a>
+              <a class="nav-link color ms-5" href="/about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link color ms-5" href="1">Services</a>
+              <a class="nav-link color ms-5" href="/services">Services</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link color ms-5" href="1">Reviews</a>
+              <a class="nav-link color ms-5" href="/reviews">Reviews</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link color ms-5" href="1">Blogs</a>
+              <a class="nav-link color ms-5" href="/blogs">Blogs</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link color ms-5" href="1">Contact Us</a>
+              <a class="nav-link color ms-5" href="/contact">Contact Us</a>
             </li>
           </ul>
 

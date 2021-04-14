@@ -32,7 +32,7 @@ const Testimonials = () => {
             <section className='testimonials my-5 py-5'>
                   <div className="container">
                         <div className="section-header">
-                              <h5 style={{ color: '#22d1ee' }}>TESTIMONIAL</h5>
+                              <h5 className='text-brand'>TESTIMONIAL</h5>
                               <h1>Patients Satisfaction</h1>
                         </div>
                         <div className="card-deck row mt-5">
