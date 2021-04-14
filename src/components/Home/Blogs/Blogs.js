@@ -36,7 +36,7 @@ const Blogs = () => {
             <section className="blogs my-5 py-5">
                   <div className="container">
                         <div className="section-header text-center">
-                              <h5 style={{ color: '#22d1ee' }}>DOCTOR'S BLOG</h5>
+                              <h5 className='text-brand'>DOCTOR'S BLOG</h5>
                               <h1>From Our Doctor's Blog News</h1>
                         </div>
                         <div className="card-deck row mt-5">

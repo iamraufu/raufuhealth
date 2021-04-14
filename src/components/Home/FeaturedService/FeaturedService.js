@@ -12,7 +12,7 @@ const FeaturedService = () => {
                                     <img className="img-fluid" src={boy} alt="" />
                               </div>
                               <div className="col-md-7 align-self-center">
-                                    <h1>Premium Service for <br/> Premium People Like You</h1>
+                                    <h1 className='text-brand'>Premium Service for <br/> Premium People Like You</h1>
                                     <p className='text-secondary my-5'> Our specialist doctors will advise and assist you every step of the way including to home service due to pandemic including the complete dental treatment, checking of all teeth. 
                                     <br/>
                                     <br/>
@@ -29,7 +29,7 @@ const FeaturedService = () => {
                                     <br/>
                                     <br/>
                                     If you require any further information or if you are happy to proceed with these terms and conditions then please contact us on +8801611404405 or email us at raufu.dev@gmail.com</p>
-                                    <button className='btn btn-info'>What's More <FontAwesomeIcon icon={faArrowRight} /></button>
+                                    <button className='btn btn-info btn-brand text-white'>What's More <FontAwesomeIcon icon={faArrowRight} /></button>
                               </div>
                         </div>
                   </div>

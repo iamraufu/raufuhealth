@@ -26,7 +26,7 @@ const Doctors = () => {
       return (
             <section className='doctors'>
                   <div className="container">
-                        <h5 style={{color:'#22d1ee'}} className='text-center mb-5'>OUR DOCTORS</h5>
+                        <h5 className='text-center mb-5 text-brand'>OUR DOCTORS</h5>
                         <div className="row">
                               {
                                     doctorData.map(doctor=><Doctor doctor={doctor}></Doctor>)

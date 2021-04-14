@@ -1,3 +1,14 @@
 * {
     font-family: 'Roboto', sans-serif;
 }
+
+.btn-brand {
+    background-image: linear-gradient(75deg, #19D3AE, #0fcfec);
+    border-color: transparent;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.text-brand {
+    color: #22d1ee;
+}

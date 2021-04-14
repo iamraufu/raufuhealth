@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 const InfoCard = ({ info }) => {
 
       return (
-            <div className='col-md-4 text-white info-card'>
+            <div className='col-md-4 text-white info-card d-none d-md-block'>
                   <div className={`d-flex justify-content-center info-container info-${info.background} rounded`}>
                         <div className="ms-3">
                               <FontAwesomeIcon className='info-icon' icon={info.icon} />
